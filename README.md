@@ -2,7 +2,7 @@
 
 **➡️ [Explore the Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiNzgwNWIyM2MtM2I0My00OTNlLWI3MmUtZjFlZjQ3NmEzOWZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
-
+**Note:** For the best user experience, open the dashboard in **Microsoft Edge** as it provides optimal support for Power BI Dashboards.
 
 
 **Problem Statement :**  
