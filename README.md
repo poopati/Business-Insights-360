@@ -1,5 +1,10 @@
 # Business-Insights-360
 
+**➡️ [Explore the Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiNzgwNWIyM2MtM2I0My00OTNlLWI3MmUtZjFlZjQ3NmEzOWZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+
+
+
+
 **Problem Statement :**  
 
 **Atliq Hardwares**, a consumer electronics company with operations across multiple countries, is experiencing rapid business growth. Despite this expansion, the company continues to rely on Excel files for data storage and analysis. This approach poses significant challenges in terms of data accessibility, manipulation, and visualization. Recognizing the need for a more robust solution, the company's senior executives have decided to invest in a data analytics project and have assigned a dedicated team to address this issue.
