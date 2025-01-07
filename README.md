@@ -6,6 +6,6 @@
 
 **🌟 Solution :**  
 
-As a Data Analyst, I analyzed data from various sources and developed four dedicated dashboards tailored to the needs of each department: **Sales**💵, **Marketing**📣, **Finance**💰, and **Supply Chain**🚚. Each dashboard highlights the relevant **KPIs** for its respective department, such as **net sales**, **gross margin**, **net profit**, **market share**, **top/bottom customers**, **top/bottom products**, **net error**, and **forecast accuracy**.  
+As a Data Analyst, I analyzed data from various sources and developed four dedicated report pages tailored to the needs of each department: **Sales**💵, **Marketing**📣, **Finance**💰, and **Supply Chain**🚚. Each dashboard highlights the relevant **KPIs** for its respective department, such as **net sales**, **gross margin**, **net profit**, **market share**, **top/bottom customers**, **top/bottom products**, **net error**, and **forecast accuracy**.  
 
-Additionally, I created an **Executive Dashboard** that consolidates key metrics from all departments, offering a comprehensive and holistic view of the company’s overall performance. This approach ensures that every team has actionable insights specific to their goals while providing senior leadership with the information they need to drive strategic decisions.
+Additionally, I created an **Executive Report** that consolidates key metrics from all departments, offering a comprehensive and holistic view of the company’s overall performance. This approach ensures that every team has actionable insights specific to their goals while providing senior leadership with the information they need to drive strategic decisions.
